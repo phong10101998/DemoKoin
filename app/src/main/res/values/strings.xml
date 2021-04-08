@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">DemoKoin</string>
+    <string name="app_name">BookCook</string>
+    <string name="title_header">cookbook.com</string>
+    <string name="step">Step : %s</string>
+    <string name="top_recipe">Top recipes</string>
+    <string name="ingredient">ingredient</string>
+    <string name="nutrient">nutrient</string>
+    <string name="similars_recipe">similar recipes :</string>
+    <string name="click_to_view_detail">Click to view detail</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="top_recipes">Top recipes</string>
+    <string name="ready_in_minute">Ready in Minute: %s</string>
+    <string name="spoonacular_score">Spoonacular score: %s</string>
+    <string name="by_name">by name</string>
+    <string name="by_ingredient">by ingredient</string>
+    <string name="found_i_results">Found %s results</string>
+    <string name="type_ingrediens">Ex: egg apple bread…</string>
+    <string name="type_recipe">Type recipe…</string>
+    <string name="conut_favourite">You have %s favourite recipe</string>
+    <string name="back_button">backButton</string>
+    <string name="ingredient_image">ingredient image</string>
+    <string name="load_json">Load Json</string>
 </resources>
